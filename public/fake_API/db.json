@@ -1,0 +1,1095 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Carlos",
+        "nickname": "@carlos",
+        "email": "info@carlos.net",
+        "address": "Minas Gerais/MG",
+        "website": "http://carlos.net",
+        "phone": "(01)99999-9999",
+        "job": "Developer",
+        "textAbout": "We are a team of developers impassioned about creating quality and distinguished HTML and WordPress templates. Our goal is to combine professional code, preeminent design and user-friendly admin interface in each product. With more than 5 years of experience and about 20 products behind and more than 11k customers, we are full of ideas and energy for new projects and we know how to surprise you.",
+        "classification": {
+          "rating": "4.6",
+          "totalRatings": "3"
+        },
+        "activity": {
+          "totPosts": 21,
+          "totComments": 21,
+          "totViews": "103K"
+        },
+        "services": [
+          {
+            "id": 1,
+            "servTitle": "Temas WordPress",
+            "servDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus autem saepe, eaque officia animi laudantium beatae necessitatibus eius quae sint, distinctio consectetur fuga alias, optio nostrum quas atque tempora porro.",
+            "servIcon": "/fake_API/images/users-images/user-id-1/servIcon-1.png"
+          },
+          {
+            "id": 2,
+            "servTitle": "Templates HTML",
+            "servDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus autem saepe, eaque officia animi laudantium beatae necessitatibus eius quae sint, distinctio consectetur fuga alias, optio nostrum quas atque tempora porro.",
+            "servIcon": "/fake_API/images/users-images/user-id-1/servIcon-2.png"
+          },
+          {
+            "id": 3,
+            "servTitle": "Desenvolvimento de Plugins",
+            "servDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus autem saepe, eaque officia animi laudantium beatae necessitatibus eius quae sint, distinctio consectetur fuga alias, optio nostrum quas atque tempora porro.",
+            "servIcon": "/fake_API/images/users-images/user-id-1/servIcon-3.png"
+          }
+        ],
+        "friendship": [
+            {
+              "name": "Thalles",
+              "nickname": "@thalles",
+              "imageProfile": "/fake_API/images/users-images/user-id-4/user-4.jpg",
+              "url": "/membros/3"
+            },
+            {
+              "name": "Michelle",
+              "nickname": "@michelle",
+              "imageProfile": "/fake_API/images/users-images/user-id-3/user-3.jpg",
+              "url": "/membros/2"
+            },
+            {
+              "name": "Daniel",
+              "nickname": "@daniel",
+              "imageProfile": "/fake_API/images/users-images/user-id-2/user-2.jpg",
+              "url": "/membros/1"
+            },
+            {
+              "name": "Cíntia",
+              "nickname": "@cintia",
+              "imageProfile": "/fake_API/images/users-images/user-id-5/user-5.jpg",
+              "url": "/membros/4"
+            }
+        ],
+        "activeGroups": [
+          {
+            "name": "Portal de Músicas",
+            "type": "grupo privado",
+            "imageGroup": "/fake_API/images/groups-images/portal-de-musicas.jpg"
+          },
+          {
+            "name": "Destinos Turísticos",
+            "type": "grupo público",
+            "imageGroup": "/fake_API/images/groups-images/destinos-turisticos.jpg"
+          },
+          {
+            "name": "Clube da Leitura",
+            "type": "grupo privado",
+            "imageGroup": "/fake_API/images/groups-images/clube-da-leitura.jpg"
+          }
+        ],
+        "project": {
+          "projectName": "Olympus - HTML Social Network Toolkit",
+          "projectImage": "/fake_API/images/users-images/user-id-1/featured-project-1.jpg",
+          "projectUrl": "olympus-html-social-network-toolkit.com",
+          "projectDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem, illo consequatur ex provident veniam et soluta ratione accusantium, earum nesciunt culpa sint tenetur illum ipsa, obcaecati natus dolore aliquam tempora. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis itaque beatae, facere blanditiis recusandae laborum tempore quae molestias aperiam? Cumque odit ducimus consequuntur deserunt itaque quisquam.",
+          "projectCategory": "web design",
+          "projectTags": [
+            "templates", "webdesign", "html"
+          ]
+        },
+        "images": {
+          "profile": "/fake_API/images/users-images/user-id-1/user-1.jpg",
+          "cover": "/fake_API/images/users-images/user-id-1/user-cover-1.jpg",
+          "portfolio": [
+            {
+              "id": 1,
+              "cover": "/fake_API/images/users-images/user-id-1/portfolio-1.jpg",
+              "detail": "/fake_API/images/users-images/user-id-1/portfolio-detail-1.jpg"
+            },
+            {
+              "id": 2,
+              "cover": "/fake_API/images/users-images/user-id-1/portfolio-2.jpg",
+              "detail": "/fake_API/images/users-images/user-id-1/portfolio-detail-2.jpg"
+            },
+            {
+              "id": 3,
+              "cover": "/fake_API/images/users-images/user-id-1/portfolio-3.jpg",
+              "detail": "/fake_API/images/users-images/user-id-1/portfolio-detail-3.jpg"
+            }
+          ],
+          "slider": [
+            {
+              "id": 1,
+              "imageSlider": "/fake_API/images/users-images/user-id-1/slider-1.jpg"
+            },
+            {
+              "id": 2,
+              "imageSlider": "/fake_API/images/users-images/user-id-1/slider-2.jpg" 
+            },
+            {
+              "id": 3,
+              "imageSlider": "/fake_API/images/users-images/user-id-1/slider-3.jpg" 
+            }
+          ],
+          "post_image": false
+        },
+        "skills": [
+          {
+            "id": 1,
+            "name": "php",
+            "percentage": "82"
+          },
+          {
+            "id": 2,
+            "name": "javascript",
+            "percentage": "86"
+          },
+          {
+            "id": 3,
+            "name": "css",
+            "percentage": "98"
+          },
+          {
+            "id": 4,
+            "name": "html",
+            "percentage": "100"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Daniel",
+        "nickname": "@daniel",
+        "email": "info@daniel.net",
+        "address": "Rio de Janeiro/RJ",
+        "website": "http://daniel.net",
+        "phone": "(02)99999-9999",
+        "job": "Developer",
+        "textAbout": "We are a team of developers impassioned about creating quality and distinguished HTML and WordPress templates. Our goal is to combine professional code, preeminent design and user-friendly admin interface in each product. With more than 5 years of experience and about 20 products behind and more than 11k customers, we are full of ideas and energy for new projects and we know how to surprise you.",
+        "classification": {
+          "rating": "4.5",
+          "totalRatings": "2"
+        },
+        "activity": {
+          "totPosts": 0,
+          "totComments": 0,
+          "totViews": "34.7K"
+        },
+        "services": [
+          {
+            "id": 1,
+            "servTitle": "E-commerces",
+            "servDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus autem saepe, eaque officia animi laudantium beatae necessitatibus eius quae sint, distinctio consectetur fuga alias, optio nostrum quas atque tempora porro.",
+            "servIcon": "/fake_API/images/users-images/user-id-2/servIcon-1.png"
+          },
+          {
+            "id": 2,
+            "servTitle": "Landing Pages",
+            "servDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus autem saepe, eaque officia animi laudantium beatae necessitatibus eius quae sint, distinctio consectetur fuga alias, optio nostrum quas atque tempora porro.",
+            "servIcon": "/fake_API/images/users-images/user-id-2/servIcon-2.png"
+          },
+          {
+            "id": 3,
+            "servTitle": "Sistemas Web",
+            "servDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus autem saepe, eaque officia animi laudantium beatae necessitatibus eius quae sint, distinctio consectetur fuga alias, optio nostrum quas atque tempora porro.",
+            "servIcon": "/fake_API/images/users-images/user-id-2/servIcon-3.png"
+          }
+        ],
+        "friendship": [
+          {
+            "name": "Carlos",
+            "nickname": "@carlos",
+            "imageProfile": "/fake_API/images/users-images/user-id-1/user-1.jpg",
+            "url": "/membros/0"
+          },
+          {
+            "name": "Antônio",
+            "nickname": "@antonio",
+            "imageProfile": "/fake_API/images/users-images/user-id-6/user-6.jpg",
+            "url": "/membros/5"
+          },
+          {
+            "name": "Cíntia",
+            "nickname": "@cintia",
+            "imageProfile": "/fake_API/images/users-images/user-id-5/user-5.jpg",
+            "url": "/membros/4"
+          }
+        ],
+        "activeGroups": [
+          {
+            "name": "Idéias de Web Design",
+            "type": "grupo privado",
+            "imageGroup": "/fake_API/images/groups-images/ideias-de-webdesign.jpg"
+          },
+          {
+            "name": "Melhores Séries",
+            "type": "grupo público",
+            "imageGroup": "/fake_API/images/groups-images/melhores-series.jpg"
+          },
+          {
+            "name": "Clube da Leitura",
+            "type": "grupo privado",
+            "imageGroup": "/fake_API/images/groups-images/clube-da-leitura.jpg"
+          }
+        ],
+        "project": {
+          "projectName": "Meet Minutes - Landing Page",
+          "projectImage": "/fake_API/images/users-images/user-id-2/featured-project-2.jpg",
+          "projectUrl": "meet-minutes-landing-pages.com",
+          "projectDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem, illo consequatur ex provident veniam et soluta ratione accusantium, earum nesciunt culpa sint tenetur illum ipsa, obcaecati natus dolore aliquam tempora. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis itaque beatae, facere blanditiis recusandae laborum tempore quae molestias aperiam? Cumque odit ducimus consequuntur deserunt itaque quisquam.",
+          "projectCategory": "landing page",
+          "projectTags": [
+            "web", "ecommerce", "developer"
+          ]
+        },
+        "images": {
+          "profile": "/fake_API/images/users-images/user-id-2/user-2.jpg",
+          "cover": "/fake_API/images/users-images/user-id-2/user-cover-2.jpeg",
+          "portfolio": [
+            {
+              "id": 1,
+              "cover": "/fake_API/images/users-images/user-id-2/portfolio-1.png",
+              "detail": "/fake_API/images/users-images/user-id-2/portfolio-detail-1.jpg"
+            },
+            {
+              "id": 2,
+              "cover": "/fake_API/images/users-images/user-id-2/portfolio-2.jpg",
+              "detail": "/fake_API/images/users-images/user-id-2/portfolio-detail-2.jpg"
+            },
+            {
+              "id": 3,
+              "cover": "/fake_API/images/users-images/user-id-2/portfolio-3.jpg",
+              "detail": "/fake_API/images/users-images/user-id-2/portfolio-detail-3.jpg"
+            }
+          ],
+          "slider": [
+            {
+              "id": 1,
+              "imageSlider": "/fake_API/images/users-images/user-id-2/slider-1.jpg"
+            },
+            {
+              "id": 2,
+              "imageSlider": "/fake_API/images/users-images/user-id-2/slider-2.jpg" 
+            },
+            {
+              "id": 3,
+              "imageSlider": "/fake_API/images/users-images/user-id-2/slider-3.jpg" 
+            }
+          ],
+          "post_image": false
+        },
+        "skills": [
+          {
+            "id": 1,
+            "name": "node.js",
+            "percentage": "78"
+          },
+          {
+            "id": 2,
+            "name": "react.js",
+            "percentage": "85"
+          },
+          {
+            "id": 3,
+            "name": "javascript",
+            "percentage": "92"
+          },
+          {
+            "id": 4,
+            "name": "html",
+            "percentage": "100"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Michelle",
+        "nickname": "@michelle",
+        "email": "info@michelle.net",
+        "address": "Florianópolis/SC",
+        "website": "http://michelle.net",
+        "phone": "(03)99999-9999",
+        "job": "Ilustradora",
+        "textAbout": "Praesent eu sem sit amet felis feugiat volutpat ut mollis massa. Proin ut congue libero. Nam non turpis eu ante accumsan bibendum. Proin dapibus arcu at lectus congue mollis. Duis cursus aliquam pulvinar.",
+        "classification": {
+          "rating": "4.3",
+          "totalRatings": "3"
+        },
+        "activity": {
+          "totPosts": 2,
+          "totComments": 2,
+          "totViews": "48.6K"
+        },
+        "services": [
+          {
+            "id": 1,
+            "servTitle": "Designer UI/UX",
+            "servDesc": "Integer cursus dui eget auctor pellentesque malesuada.",
+            "servIcon": "/fake_API/images/users-images/user-id-3/servIcon-1.png"
+          },
+          {
+            "id": 2,
+            "servTitle": "Livros Ilustrados",
+            "servDesc": "Sed in mi pretium neque pulvinar malesuada. Nulla facilisi.",
+            "servIcon": "/fake_API/images/users-images/user-id-3/servIcon-2.png"
+          },
+          {
+            "id": 3,
+            "servTitle": "Designer de Logotipos",
+            "servDesc": "Aliquam a elit vitae lacus pharetra fermentum in ut ligula sodales nibh.",
+            "servIcon": "/fake_API/images/users-images/user-id-3/servIcon-3.png"
+          }
+        ],
+        "friendship": [
+          {
+            "name": "Thalles",
+            "nickname": "@thalles",
+            "imageProfile": "/fake_API/images/users-images/user-id-4/user-4.jpg",
+            "url": "/membros/3"
+          },
+          {
+            "name": "Carlos",
+            "nickname": "@carlos",
+            "imageProfile": "/fake_API/images/users-images/user-id-1/user-1.jpg",
+            "url": "/membros/0"
+          },
+          {
+            "name": "Antônio",
+            "nickname": "@antonio",
+            "imageProfile": "/fake_API/images/users-images/user-id-6/user-6.jpg",
+            "url": "/membros/5"
+          },
+          {
+            "name": "Ricardo",
+            "nickname": "@ricardo",
+            "imageProfile": "/fake_API/images/users-images/user-id-7/user-7.jpg",
+            "url": "/membros/6"
+          }
+        ],
+        "activeGroups": [
+          {
+            "name": "Portal de Músicas",
+            "type": "grupo privado",
+            "imageGroup": "/fake_API/images/groups-images/portal-de-musicas.jpg"
+          },
+          {
+            "name": "Destinos Turísticos",
+            "type": "grupo público",
+            "imageGroup": "/fake_API/images/groups-images/destinos-turisticos.jpg"
+          },
+          {
+            "name": "Clube da Leitura",
+            "type": "grupo privado",
+            "imageGroup": "/fake_API/images/groups-images/clube-da-leitura.jpg"
+          }
+        ],
+        "project": {
+          "projectName": "Liberdade de Expressão",
+          "projectImage": "/fake_API/images/users-images/user-id-3/featured-project-3.jpg",
+          "projectUrl": "",
+          "projectDesc": "Etiam semper leo et libero fringilla, eu luctus nibh facilisis. Nulla vel quam eget libero rutrum ultrices id eu sapien. Integer vestibulum lectus eget mauris placerat, eget ultricies felis ullamcorper. Integer sit amet tempus libero, nec vulputate nibh. Nam ut nibh tellus. Morbi at quam nulla. Phasellus et sodales erat. Nulla vel quam eget libero rutrum ultrices id eu sapien. Integer vestibulum lectus eget mauris placerat, eget ultricies felis ullamcorper.",
+          "projectCategory": "ilustração",
+          "projectTags": [
+            "ilustradora", "designer", "criatividade"
+          ]
+        },
+        "images": {
+          "profile": "/fake_API/images/users-images/user-id-3/user-3.jpg",
+          "cover": "/fake_API/images/users-images/user-id-3/user-cover-3.png",
+          "portfolio": [
+            {
+              "id": 1,
+              "cover": "/fake_API/images/users-images/user-id-3/portfolio-1.jpg",
+              "detail": "/fake_API/images/users-images/user-id-3/portfolio-detail-1.jpg"
+            },
+            {
+              "id": 2,
+              "cover": "/fake_API/images/users-images/user-id-3/portfolio-2.jpg",
+              "detail": "/fake_API/images/users-images/user-id-3/portfolio-detail-2.jpg"
+            },
+            {
+              "id": 3,
+              "cover": "/fake_API/images/users-images/user-id-3/portfolio-3.jpg",
+              "detail": "/fake_API/images/users-images/user-id-3/portfolio-detail-3.jpg"
+            }
+          ],
+          "slider": [
+            {
+              "id": 1,
+              "imageSlider": "/fake_API/images/users-images/user-id-3/slider-1.jpg"
+            },
+            {
+              "id": 2,
+              "imageSlider": "/fake_API/images/users-images/user-id-3/slider-2.jpg" 
+            },
+            {
+              "id": 3,
+              "imageSlider": "/fake_API/images/users-images/user-id-3/slider-3.jpg" 
+            }
+          ],
+          "post_image": "/fake_API/images/users-images/post-image-1.jpg"
+        },
+        "skills": [
+          {
+            "id": 1,
+            "name": "Criatividade e Imaginação",
+            "percentage": "95"
+          },
+          {
+            "id": 2,
+            "name": "Autopromoção",
+            "percentage": "80"
+          },
+          {
+            "id": 3,
+            "name": "Habilidades de Desenho",
+            "percentage": "85"
+          },
+          {
+            "id": 4,
+            "name": "Conhecimentos em TI",
+            "percentage": "65"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Thalles",
+        "nickname": "@thalles",
+        "email": "info@thalles.net",
+        "address": "São Paulo/SP",
+        "website": "http://thalles.net",
+        "phone": "(04)99999-9999",
+        "job": "Web Designer",
+        "textAbout": "Fusce nisi est, dapibus quis augue a, tincidunt eleifend elit. Nulla vel ante mollis, accumsan tortor eu, commodo tortor. In hac habitasse platea dictumst. Vivamus ultrices nulla vitae turpis molestie, eget posuere felis tristique. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In id aliquam nisi.",
+        "classification": {
+          "rating": "5.0",
+          "totalRatings": "2"
+        },
+        "activity": {
+          "totPosts": 0,
+          "totComments": 0,
+          "totViews": "48.6K"
+        },
+        "services": [
+          {
+            "id": 1,
+            "servTitle": "Landing Pages",
+            "servDesc": "Aenean consectetur ac quam et fringilla. Curabitur at vehicula massa.",
+            "servIcon": "/fake_API/images/users-images/user-id-4/servIcon-1.png"
+          },
+          {
+            "id": 2,
+            "servTitle": "Design de Logotipo",
+            "servDesc": "Etiam convallis, diam vitae vulputate feugiat, mi dolor aliquet augue, in egestas justo magna a neque.",
+            "servIcon": "/fake_API/images/users-images/user-id-4/servIcon-2.png"
+          },
+          {
+            "id": 3,
+            "servTitle": "Web Designer",
+            "servDesc": "Nulla commodo velit at velit interdum accumsan. Curabitur mi nisi, ultrices a accumsan a, scelerisque a velit.",
+            "servIcon": "/fake_API/images/users-images/user-id-4/servIcon-3.png"
+          }
+        ],
+        "friendship": [
+          {
+            "name": "Carlos",
+            "nickname": "@carlos",
+            "imageProfile": "/fake_API/images/users-images/user-id-1/user-1.jpg",
+            "url": "/membros/0"
+          },
+          {
+            "name": "Antônio",
+            "nickname": "@antonio",
+            "imageProfile": "/fake_API/images/users-images/user-id-6/user-6.jpg",
+            "url": "/membros/5"
+          },
+          {
+            "name": "Ricardo",
+            "nickname": "@ricardo",
+            "imageProfile": "/fake_API/images/users-images/user-id-7/user-7.jpg",
+            "url": "/membros/6"
+          },
+          {
+            "name": "Cíntia",
+            "nickname": "@cintia",
+            "imageProfile": "/fake_API/images/users-images/user-id-5/user-5.jpg",
+            "url": "/membros/4"
+          }
+        ],
+        "activeGroups": [
+          {
+            "name": "Portal de Músicas",
+            "type": "grupo privado",
+            "imageGroup": "/fake_API/images/groups-images/portal-de-musicas.jpg"
+          },
+          {
+            "name": "Idéias de Web Design",
+            "type": "grupo privado",
+            "imageGroup": "/fake_API/images/groups-images/ideias-de-webdesign.jpg"
+          },
+          {
+            "name": "Melhores Séries",
+            "type": "grupo público",
+            "imageGroup": "/fake_API/images/groups-images/melhores-series.jpg"
+          }
+        ],
+        "project": {
+          "projectName": "WOOX - Agência de Criação Digital",
+          "projectImage": "/fake_API/images/users-images/user-id-4/featured-project-4.jpg",
+          "projectUrl": "woox-agencia-de-criacao-digital.com",
+          "projectDesc": "Woox is non-standard and creative idea for your projects. The expressive and bright template will highlight your project among others. This template includes 70+ carefully designed pages in Adobe Photoshop CC, which are easy to edit and customize to fit your needs. The template is perfect solutions for the creation of unique web projects.",
+          "projectCategory": "landing page",
+          "projectTags": [
+            "web", "designer", "wordpress"
+          ]
+        },
+        "images": {
+          "profile": "/fake_API/images/users-images/user-id-4/user-4.jpg",
+          "cover": "/fake_API/images/users-images/user-id-4/user-cover-4.jpg",
+          "portfolio": [
+            {
+              "id": 1,
+              "cover": "/fake_API/images/users-images/user-id-4/portfolio-1.jpg",
+              "detail": "/fake_API/images/users-images/user-id-4/portfolio-detail-1.jpg"
+            },
+            {
+              "id": 2,
+              "cover": "/fake_API/images/users-images/user-id-4/portfolio-2.jpg",
+              "detail": "/fake_API/images/users-images/user-id-4/portfolio-detail-2.jpg"
+            },
+            {
+              "id": 3,
+              "cover": "/fake_API/images/users-images/user-id-4/portfolio-3.jpg",
+              "detail": "/fake_API/images/users-images/user-id-4/portfolio-detail-3.jpg"
+            }
+          ],
+          "slider": [
+            {
+              "id": 1,
+              "imageSlider": "/fake_API/images/users-images/user-id-4/slider-1.jpg"
+            },
+            {
+              "id": 2,
+              "imageSlider": "/fake_API/images/users-images/user-id-4/slider-2.jpg" 
+            },
+            {
+              "id": 3,
+              "imageSlider": "/fake_API/images/users-images/user-id-4/slider-3.jpg" 
+            }
+          ],
+          "post_image": false
+        },
+        "skills": [
+          {
+            "id": 1,
+            "name": "figma",
+            "percentage": "76"
+          },
+          {
+            "id": 2,
+            "name": "bootstrap",
+            "percentage": "98"
+          },
+          {
+            "id": 3,
+            "name": "vue.js",
+            "percentage": "84"
+          },
+          {
+            "id": 4,
+            "name": "wordpress",
+            "percentage": "65"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Cíntia",
+        "nickname": "@cintia",
+        "email": "info@cintia.net",
+        "address": "Mato Grosso do Sul/MS",
+        "website": "http://cintia.net",
+        "phone": "(05)99999-9999",
+        "job": "Fotógrafa",
+        "textAbout": "Praesent egestas quam purus, id ullamcorper nulla ornare in. Cras molestie eu arcu vitae commodo. Aenean eleifend mauris tortor, eget placerat quam cursus vitae. Curabitur quis ipsum accumsan, ullamcorper ex at, feugiat ipsum. Maecenas id ipsum vitae urna posuere hendrerit.",
+        "classification": {
+          "rating": "4.0",
+          "totalRatings": "2"
+        },
+        "activity": {
+          "totPosts": 10,
+          "totComments": 25,
+          "totViews": "55.2K"
+        },
+        "services": [
+          {
+            "id": 1,
+            "servTitle": "Fotografia de Alimentos",
+            "servDesc": "Morbi dignissim nunc gravida vulputate luctus.",
+            "servIcon": "/fake_API/images/users-images/user-id-5/servIcon-1.png"
+          },
+          {
+            "id": 2,
+            "servTitle": "Fotografia de Produtos",
+            "servDesc": "Praesent pretium mauris ac lorem egestas, vel pretium.",
+            "servIcon": "/fake_API/images/users-images/user-id-5/servIcon-2.png"
+          },
+          {
+            "id": 3,
+            "servTitle": "Fotografia de Casamentos",
+            "servDesc": "Sed vitae augue vel quam mattis bibendum.",
+            "servIcon": "/fake_API/images/users-images/user-id-5/servIcon-3.png"
+          }
+        ],
+        "friendship": [
+          {
+            "name": "Antônio",
+            "nickname": "@antonio",
+            "imageProfile": "/fake_API/images/users-images/user-id-6/user-6.jpg",
+            "url": "/membros/5"
+          },
+          {
+            "name": "Thalles",
+            "nickname": "@thalles",
+            "imageProfile": "/fake_API/images/users-images/user-id-4/user-4.jpg",
+            "url": "/membros/3"
+          },
+          {
+            "name": "Ricardo",
+            "nickname": "@ricardo",
+            "imageProfile": "/fake_API/images/users-images/user-id-7/user-7.jpg",
+            "url": "/membros/6"
+          },
+          {
+            "name": "Carlos",
+            "nickname": "@carlos",
+            "imageProfile": "/fake_API/images/users-images/user-id-1/user-1.jpg",
+            "url": "/membros/0"
+          },
+          {
+            "name": "Daniel",
+            "nickname": "@daniel",
+            "imageProfile": "/fake_API/images/users-images/user-id-2/user-2.jpg",
+            "url": "/membros/1"
+          }
+        ],
+        "activeGroups": [
+          {
+            "name": "Rotas de Trilhas",
+            "type": "grupo público",
+            "imageGroup": "/fake_API/images/groups-images/rotas-de-trilhas.jpg"
+          },
+          {
+            "name": "Melhores Séries",
+            "type": "grupo público",
+            "imageGroup": "/fake_API/images/groups-images/melhores-series.jpg"
+          },
+          {
+            "name": "Destinos Turísticos",
+            "type": "grupo público",
+            "imageGroup": "/fake_API/images/groups-images/destinos-turisticos.jpg"
+          }
+        ],
+        "project": {
+          "projectName": "Fotografia em Estúdio",
+          "projectImage": "/fake_API/images/users-images/user-id-5/featured-project-5.jpg",
+          "projectUrl": "",
+          "projectDesc": "Vestibulum consequat sem arcu, eget tincidunt arcu vestibulum nec. Praesent vehicula commodo varius. Donec rhoncus est ipsum, vitae venenatis turpis dapibus non. Nunc neque nibh, placerat in sem vitae, fringilla rhoncus orci. Proin tempus ut magna ac aliquam. Nunc blandit libero ac sapien convallis varius.",
+          "projectCategory": "fotografia",
+          "projectTags": [
+            "fotografia", "arte", "retrato"
+          ]
+        },
+        "images": {
+          "profile": "/fake_API/images/users-images/user-id-5/user-5.jpg",
+          "cover": "/fake_API/images/users-images/user-id-5/user-cover-5.jpg",
+          "portfolio": [
+            {
+              "id": 1,
+              "cover": "/fake_API/images/users-images/user-id-5/portfolio-1.jpg",
+              "detail": "/fake_API/images/users-images/user-id-5/portfolio-detail-1.jpg"
+            },
+            {
+              "id": 2,
+              "cover": "/fake_API/images/users-images/user-id-5/portfolio-2.jpg",
+              "detail": "/fake_API/images/users-images/user-id-5/portfolio-detail-2.jpg"
+            },
+            {
+              "id": 3,
+              "cover": "/fake_API/images/users-images/user-id-5/portfolio-3.jpg",
+              "detail": "/fake_API/images/users-images/user-id-5/portfolio-detail-3.jpg"
+            }
+          ],
+          "slider": [
+            {
+              "id": 1,
+              "imageSlider": "/fake_API/images/users-images/user-id-5/slider-1.jpg"
+            },
+            {
+              "id": 2,
+              "imageSlider": "/fake_API/images/users-images/user-id-5/slider-2.jpeg" 
+            },
+            {
+              "id": 3,
+              "imageSlider": "/fake_API/images/users-images/user-id-5/slider-3.jpg" 
+            }
+          ],
+          "post_image": "/fake_API/images/users-images/post-image-2.png"
+        },
+        "skills": [
+          {
+            "id": 1,
+            "name": "criatividade",
+            "percentage": "98"
+          },
+          {
+            "id": 2,
+            "name": "atenção aos detalhes",
+            "percentage": "80"
+          },
+          {
+            "id": 3,
+            "name": "conhecimentos de hardware e software",
+            "percentage": "85"
+          },
+          {
+            "id": 4,
+            "name": "photoshop",
+            "percentage": "90"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Antônio",
+        "nickname": "@antonio",
+        "email": "info@antonio.net",
+        "address": "Bahia/BA",
+        "website": "http://antonio.net",
+        "phone": "(06)99999-9999",
+        "job": "Web Designer",
+        "textAbout": "Quisque sed ipsum varius, porta enim ac, blandit diam. Aliquam id augue blandit, suscipit velit at, posuere massa. Donec libero magna, tempor ut volutpat sit amet, accumsan sed mauris. Maecenas ullamcorper eu velit ut rhoncus.",
+        "classification": {
+          "rating": "4.5",
+          "totalRatings": "2"
+        },
+        "activity": {
+          "totPosts": 12,
+          "totComments": 8,
+          "totViews": "46.3K"
+        },
+        "services": [
+          {
+            "id": 1,
+            "servTitle": "Mockups e Esboços de Design",
+            "servDesc": "Ut sollicitudin blandit elit, ut fringilla massa suscipit a. Sed in consequat purus. Nullam ut egestas purus. Mauris posuere odio sit amet justo tincidunt, et faucibus justo ultrices",
+            "servIcon": "/fake_API/images/users-images/user-id-6/servIcon-1.png"
+          },
+          {
+            "id": 2,
+            "servTitle": "Design de Landing Pages",
+            "servDesc": "Curabitur pretium sodales lorem eget cursus. Nulla commodo velit at velit interdum accumsan. Curabitur mi nisi, ultrices a accumsan a, scelerisque a velit. Sed erat leo, commodo id ultrices in, venenatis at felis.",
+            "servIcon": "/fake_API/images/users-images/user-id-6/servIcon-2.png"
+          },
+          {
+            "id": 3,
+            "servTitle": "Web Designer",
+            "servDesc": "Duis nibh lacus, efficitur vel nisi et, ultrices malesuada lacus. Vivamus vitae pulvinar nisi. Nulla fringilla nisl sit amet ligula tincidunt, sit amet semper tortor gravida.",
+            "servIcon": "/fake_API/images/users-images/user-id-6/servIcon-3.png"
+          }
+        ],
+        "friendship": [
+          {
+            "name": "Cíntia",
+            "nickname": "@cintia",
+            "imageProfile": "/fake_API/images/users-images/user-id-5/user-5.jpg",
+            "url": "/membros/4"
+          },
+          {
+            "name": "Thalles",
+            "nickname": "@thalles",
+            "imageProfile": "/fake_API/images/users-images/user-id-4/user-4.jpg",
+            "url": "/membros/3"
+          },
+          {
+            "name": "Daniel",
+            "nickname": "@daniel",
+            "imageProfile": "/fake_API/images/users-images/user-id-2/user-2.jpg",
+            "url": "/membros/1"
+          },
+          {
+            "name": "Michelle",
+            "nickname": "@michelle",
+            "imageProfile": "/fake_API/images/users-images/user-id-3/user-3.jpg",
+            "url": "/membros/3"
+          }
+        ],
+        "activeGroups": [
+          {
+            "name": "Rotas de Trilhas",
+            "type": "grupo público",
+            "imageGroup": "/fake_API/images/groups-images/rotas-de-trilhas.jpg"
+          }
+        ],
+        "project": {
+          "projectName": "Design de Modelo de Portfólio",
+          "projectImage": "/fake_API/images/users-images/user-id-6/featured-project-6.jpg",
+          "projectUrl": "design-de-modelo-de-portfolio",
+          "projectDesc": "Maecenas nisl justo, rutrum eu vestibulum placerat, dictum id urna. Etiam convallis, diam vitae vulputate feugiat, mi dolor aliquet augue, in egestas justo magna a neque. Fusce metus nisl, pharetra vitae enim commodo, pretium porta tortor. Nunc eu tortor a lectus rutrum lobortis vel volutpat libero. Maecenas tempus posuere ante. Suspendisse vitae mi tempus, aliquam arcu sed, iaculis quam. Aenean consectetur ac quam et fringilla. Curabitur at vehicula massa. Pellentesque id lectus est.",
+          "projectCategory": "web design",
+          "projectTags": [
+            "web", "designer", "agencia"
+          ]
+        },
+        "images": {
+          "profile": "/fake_API/images/users-images/user-id-6/user-6.jpg",
+          "cover": "/fake_API/images/users-images/user-id-6/user-cover-6.jpeg",
+          "portfolio": [
+            {
+              "id": 1,
+              "cover": "/fake_API/images/users-images/user-id-6/portfolio-1.jpg",
+              "detail": "/fake_API/images/users-images/user-id-6/portfolio-detail-1.jpg"
+            },
+            {
+              "id": 2,
+              "cover": "/fake_API/images/users-images/user-id-6/portfolio-2.jpg",
+              "detail": "/fake_API/images/users-images/user-id-6/portfolio-detail-2.jpg"
+            },
+            {
+              "id": 3,
+              "cover": "/fake_API/images/users-images/user-id-6/portfolio-3.jpg",
+              "detail": "/fake_API/images/users-images/user-id-6/portfolio-detail-3.jpg"
+            }
+          ],
+          "slider": [
+            {
+              "id": 1,
+              "imageSlider": "/fake_API/images/users-images/user-id-6/slider-1.jpg"
+            },
+            {
+              "id": 2,
+              "imageSlider": "/fake_API/images/users-images/user-id-6/slider-2.jpeg" 
+            },
+            {
+              "id": 3,
+              "imageSlider": "/fake_API/images/users-images/user-id-6/slider-3.jpg" 
+            }
+          ],
+          "post_image": false
+        },
+        "skills": [
+          {
+            "id": 1,
+            "name": "bootstrap",
+            "percentage": "90"
+          },
+          {
+            "id": 2,
+            "name": "design pattern",
+            "percentage": "45"
+          },
+          {
+            "id": 3,
+            "name": "zeplin",
+            "percentage": "74"
+          },
+          {
+            "id": 4,
+            "name": "UI/UX",
+            "percentage": "85"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Ricardo",
+        "nickname": "@ricardo",
+        "email": "info@ricardo.net",
+        "address": "Rio Grande do Sul/RS",
+        "website": "http://ricardo.net",
+        "phone": "(07)99999-9999",
+        "job": "Pintor",
+        "textAbout": "Vestibulum consequat sem arcu, eget tincidunt arcu vestibulum nec. Praesent vehicula commodo varius. Donec rhoncus est ipsum, vitae venenatis turpis dapibus non. Nunc neque nibh, placerat in sem vitae, fringilla rhoncus orci.",
+        "classification": {
+          "rating": "4.0",
+          "totalRatings": "3"
+        },
+        "activity": {
+          "totPosts": 5,
+          "totComments": 12,
+          "totViews": "40.4K"
+        },
+        "services": [
+          {
+            "id": 1,
+            "servTitle": "Retrato",
+            "servDesc": "Sed vitae augue vel quam mattis bibendum.",
+            "servIcon": "/fake_API/images/users-images/user-id-7/servIcon-1.png"
+          },
+          {
+            "id": 2,
+            "servTitle": "Grafite",
+            "servDesc": "Donec rhoncus est ipsum, vitae venenatis turpis.",
+            "servIcon": "/fake_API/images/users-images/user-id-7/servIcon-2.png"
+          },
+          {
+            "id": 3,
+            "servTitle": "Pedidos Personalizados",
+            "servDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "servIcon": "/fake_API/images/users-images/user-id-7/servIcon-3.png"
+          }
+        ],
+        "friendship": [
+          {
+            "name": "Michelle",
+            "nickname": "@michelle",
+            "imageProfile": "/fake_API/images/users-images/user-id-3/user-3.jpg",
+            "url": "/membros/2"
+          },
+          {
+            "name": "Thalles",
+            "nickname": "@thalles",
+            "imageProfile": "/fake_API/images/users-images/user-id-4/user-4.jpg",
+            "url": "/membros/3"
+          },
+          {
+            "name": "Daniel",
+            "nickname": "@daniel",
+            "imageProfile": "/fake_API/images/users-images/user-id-2/user-2.jpg",
+            "url": "/membros/1"
+          }
+        ],
+        "activeGroups": [
+          {
+            "name": "Portal de Músicas",
+            "type": "grupo privado",
+            "imageGroup": "/fake_API/images/groups-images/portal-de-musicas.jpg"
+          },
+          {
+            "name": "Destinos Turísticos",
+            "type": "grupo público",
+            "imageGroup": "/fake_API/images/groups-images/destinos-turisticos.jpg"
+          },
+          {
+            "name": "Rotas de Trilhas",
+            "type": "grupo público",
+            "imageGroup": "/fake_API/images/groups-images/rotas-de-trilhas.jpg"
+          }
+        ],
+        "project": {
+          "projectName": "Pintura Abstrata",
+          "projectImage": "/fake_API/images/users-images/user-id-7/featured-project-7.jpg",
+          "projectUrl": "",
+          "projectDesc": "Donec sodales metus ex, ut rutrum neque fringilla eu. Curabitur rutrum pulvinar arcu vitae varius. Sed vitae augue vel quam mattis bibendum. In quis ullamcorper leo. Pellentesque laoreet dignissim orci, id dignissim odio hendrerit at. Mauris nec sapien facilisis, posuere massa a, eleifend enim. Mauris pretium elit et tempus iaculis.",
+          "projectCategory": "pintura",
+          "projectTags": [
+            "pintor", "retrato", "grafite"
+          ]
+        },
+        "images": {
+          "profile": "/fake_API/images/users-images/user-id-7/user-7.jpg",
+          "cover": "/fake_API/images/users-images/user-id-7/user-cover-7.jpeg",
+          "portfolio": [
+            {
+              "id": 1,
+              "cover": "/fake_API/images/users-images/user-id-7/portfolio-1.jpg",
+              "detail": "/fake_API/images/users-images/user-id-7/portfolio-detail-1.jpg"
+            },
+            {
+              "id": 2,
+              "cover": "/fake_API/images/users-images/user-id-7/portfolio-2.jpg",
+              "detail": "/fake_API/images/users-images/user-id-7/portfolio-detail-2.jpg"
+            },
+            {
+              "id": 3,
+              "cover": "/fake_API/images/users-images/user-id-7/portfolio-3.jpg",
+              "detail": "/fake_API/images/users-images/user-id-7/portfolio-detail-3.jpg"
+            }
+          ],
+          "slider": [
+            {
+              "id": 1,
+              "imageSlider": "/fake_API/images/users-images/user-id-7/slider-1.jpg"
+            },
+            {
+              "id": 2,
+              "imageSlider": "/fake_API/images/users-images/user-id-7/slider-2.jpg" 
+            },
+            {
+              "id": 3,
+              "imageSlider": "/fake_API/images/users-images/user-id-7/slider-3.jpg" 
+            }
+          ],
+          "post_image": "/fake_API/images/users-images/post-image-3.jpg"
+        },
+        "skills": [
+          {
+            "id": 1,
+            "name": "Gestão de Tempo",
+            "percentage": "70"
+          },
+          {
+            "id": 2,
+            "name": "Familiaridade com Materiais e ferramentas",
+            "percentage": "85"
+          },
+          {
+            "id": 3,
+            "name": "Detalhe Orientado",
+            "percentage": "90"
+          },
+          {
+            "id": 4,
+            "name": "Senso Estético",
+            "percentage": "95"
+          }
+        ]
+      }
+    ],
+    "groups": [
+      {
+        "id": 1,
+        "name": "Destinos Turísticos",
+        "groupType": "Grupo Público",
+        "imageCover": "/fake_API/images/groups-images/cover-destinos-turisticos.jpeg",
+        "imageGroup": "/fake_API/images/groups-images/destinos-turisticos.jpg",
+        "private": false
+      },
+      {
+        "id": 2,
+        "name": "Clube da Leitura",
+        "groupType": "Grupo Privado",
+        "imageCover": "/fake_API/images/groups-images/cover-clube-da-leitura.jpeg",
+        "imageGroup": "/fake_API/images/groups-images/clube-da-leitura.jpg",
+        "private": true
+      },
+      {
+        "id": 3,
+        "name": "Rotas de Trilhas",
+        "groupType": "Grupo Público",
+        "imageCover": "/fake_API/images/groups-images/cover-rotas-de-trilhas.jpeg",
+        "imageGroup": "/fake_API/images/groups-images/rotas-de-trilhas.jpg",
+        "private": false
+      },
+      {
+        "id": 4,
+        "name": "Portal de Músicas",
+        "groupType": "Grupo Privado",
+        "imageCover": "/fake_API/images/groups-images/cover-portal-de-musicas.jpeg",
+        "imageGroup": "/fake_API/images/groups-images/portal-de-musicas.jpg",
+        "private": true
+      },
+      {
+        "id": 5,
+        "name": "Idéias de Web Design",
+        "groupType": "Grupo Privado",
+        "imageCover": "/fake_API/images/groups-images/cover-ideias-de-webdesign.jpeg",
+        "imageGroup": "/fake_API/images/groups-images/ideias-de-webdesign.jpg",
+        "private": true
+      },
+      {
+        "id": 6,
+        "name": "Melhores Séries",
+        "groupType": "Grupo Público",
+        "imageCover": "/fake_API/images/groups-images/cover-melhores-series.jpg",
+        "imageGroup": "/fake_API/images/groups-images/melhores-series.jpg",
+        "private": false
+      }
+    ]
+  }
